@@ -36,3 +36,10 @@ Save the job and build it
 ![image](https://github.com/Skillz619/Jenkins-CICD-Project/assets/43133388/b8201ff1-9b47-49cd-8e65-11f5c375035c)
 
 
+✅Run the pipeline job.
+
+✅Check job configuration and output.
+
+✅Test Dev app.
+
+✅Test Prod app.

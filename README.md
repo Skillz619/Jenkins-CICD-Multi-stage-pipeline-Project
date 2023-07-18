@@ -6,6 +6,8 @@
 
 # Install Plugins
 Install Pipeline and SSH Build Agents plugin. 
+![image](https://github.com/Skillz619/Jenkins-CICD-Project/assets/43133388/2e37d26a-982f-40d7-a9cc-70ff1e5dd76b)
+
 ![image](https://github.com/Skillz619/Jenkins-CICD-Project/assets/43133388/9d0eeed4-e532-4bea-91f1-d07e204c3a48)
 
 

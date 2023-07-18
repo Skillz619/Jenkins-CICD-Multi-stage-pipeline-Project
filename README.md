@@ -29,7 +29,8 @@ Both dev and production server nodes created
 In new item we create a pipeline job
 ![image](https://github.com/Skillz619/Jenkins-CICD-Project/assets/43133388/050265b0-df6b-444a-b663-a5b81c881150)
 
-[Add the pipeline script]([https://www.rspsciencehub.com/article_11899.html](https://github.com/Skillz619/Jenkins-CICD-Project/blob/main/jenkinsfile))
+<a href="https://github.com/Skillz619/Jenkins-CICD-Project/blob/main/jenkinsfile"> Add pipeline Script
+
 
 Save the job
 ![image](https://github.com/Skillz619/Jenkins-CICD-Project/assets/43133388/b8201ff1-9b47-49cd-8e65-11f5c375035c)

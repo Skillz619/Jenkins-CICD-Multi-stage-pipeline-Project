@@ -17,4 +17,21 @@ We add a credntial
 Create a dev node and launch via ssh with the credentials created
 ![image](https://github.com/Skillz619/Jenkins-CICD-Project/assets/43133388/166284b7-84e5-4639-8110-0c3d83eab6f4)
 
+Create a prod node and launch via ssh with the credentials created
+![image](https://github.com/Skillz619/Jenkins-CICD-Project/assets/43133388/80f9990b-d2d4-4b1c-8164-8736af24f236)
+
+
+Both dev and production server nodes created
+![image](https://github.com/Skillz619/Jenkins-CICD-Project/assets/43133388/54de733b-9827-46ea-9ec8-cbb671ffaeb6)
+
+# Create and Configure the job:
+
+In new item we create a pipeline job
+![image](https://github.com/Skillz619/Jenkins-CICD-Project/assets/43133388/050265b0-df6b-444a-b663-a5b81c881150)
+
+Add the pipeline script 
+
+Save the job
+![image](https://github.com/Skillz619/Jenkins-CICD-Project/assets/43133388/b8201ff1-9b47-49cd-8e65-11f5c375035c)
+
 
